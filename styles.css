@@ -1,0 +1,49 @@
+body	{
+	background-color: #708090
+}
+
+h1	{
+	color: black;
+	text-align: center;
+	font-family: verdana;
+}
+
+p	{
+	color: black;
+	text-align: center;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+a  {
+	target: _blank;
+}
+
+a:link  {
+	color:black;
+}
+
+a:visited	{
+	color:black;
+}
+
+a:hover	{
+	color:blue;
+}
+
+div	{
+	color:black;
+	font-family: verdana;
+	font-size: 18px;
+}
+
+table tr:nth-child(even) {
+    background-color: white;
+}
+table tr:nth-child(odd) {
+   background-color: #808080;
+}
+table th	{
+    background-color: white;
+    color: black;
+}
